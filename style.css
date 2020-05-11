@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sqr {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: inset 0px 0px 2rem rgba(0, 0, 0, 0.377), 0px 2px 2rem rgba(0, 0, 0, 0.719);
+    background: linear-gradient(to left bottom, rgb(12, 12, 218), rgba(255, 0, 0, 0.986));
+}
