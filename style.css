@@ -17,5 +17,9 @@
 }
 
 .sqr1 {
-    background: linear-gradient(to left bottom, rgb(12, 12, 218), rgba(21, 255, 0, 0.986));
+    background: linear-gradient(to left bottom, rgb(12, 218, 57), rgba(238, 255, 0, 0.986));
+}
+
+.red {
+    background-color: red;
 }
